@@ -6,12 +6,12 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** and recent B.Tech Computer Science graduate with a strong foundation in **full-stack web development** and **Android app development**. I love building impactful applications that solve real-world problems and am constantly exploring new technologies to enhance my skill set.
+I'm a passionate **Software Engineer** and recent B.Tech Computer Science graduate with a strong foundation in **full-stack web development** and **Android app development**. I'm currently pursuing a Minor in **Artificial Intelligence** from **IIT Ropar**. I love building impactful applications that solve real-world problems and am constantly exploring new technologies to enhance my skill set.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering (2024)
 - 📍 **Location:** India
 - 💼 **Status:** Open to new opportunities
-- 🌱 **Currently Learning:** React Native + TypeScript, NativeWind, FastAPI
+- 🌱 **Currently Learning:** React Native + TypeScript, NativeWind, Machine Leaning
 - 🎯 **Goal:** Building innovative and scalable applications
 
 ---
@@ -65,9 +65,9 @@ I'm a passionate **Software Engineer** and recent B.Tech Computer Science gradua
 
 ## 🎯 Current Focus
 
-- 🔭 **Currently Working On:** [Smart Salary & Expense Tracker](https://github.com/Kadaliharsha/tracker)
-- 🌱 **Learning:** React Native + TypeScript, NativeWind (Tailwind for React Native), Backend API development with FastAPI
-- 👯 **Looking to Collaborate On:** Innovative full-stack projects, Android app development, AI-powered productivity tools
+- 🔭 **Currently Working On:** [Smart Salary & Expense Tracker](https://github.com/Kadaliharsha/tracker), [AI in Personalized Learning](https://github.com/Kadaliharsha/AI_in_PL_IIT)
+- 🌱 **Learning:** React Native + TypeScript, NativeWind (Tailwind for React Native), Backend API development with Node.JS, FastAPI
+- 👯 **Looking to Collaborate On:** Innovative full-stack projects, Android app development, AI-powered productivity tools and Machine Learning Models
 - 💡 **Interested In:** Building scalable web applications, mobile app development, and exploring AI/ML integrations
 
 ---
