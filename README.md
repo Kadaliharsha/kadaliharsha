@@ -77,21 +77,38 @@ I'm a passionate **Software Engineer** and recent B.Tech Computer Science gradua
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadaliharsha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliharsha&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kadaliharsha&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliharsha&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kadaliharsha&theme=tokyonight)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kadaliharsha&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=kadaliharsha&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kadaliharsha&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<!-- Alternative GitHub Stats (if above doesn't work) -->
+<!-- 
+<div align="center">
+
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=kadaliharsha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadaliharsha&layout=compact&theme=radical)
+
+</div>
+-->
+
+<!-- GitHub Activity Graph -->
+<div align="center">
+
+[![Harsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kadaliharsha&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
