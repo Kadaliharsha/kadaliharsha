@@ -1,8 +1,6 @@
-# 👋 Hi there, I'm Kadali Harshavardhan
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Android+App+Developer;B.Tech+CSE+Graduate+2024;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+
+# 👋 Hi there, I'm Kadali Harshavardhan
 
 </div>
 
