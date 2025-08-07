@@ -1,6 +1,6 @@
 <div align="center">
 
-# Kadali Harshavardhan
+# Hi There, I'm Kadali Harshavardhan
 
 **Software Engineer | Full-Stack Developer | AI Enthusiast**
 
