@@ -93,10 +93,6 @@ I am a dedicated Software Engineer with a B.Tech in Computer Science & Engineeri
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kadaliharsha&theme=tokyonight)](https://git.io/streak-stats)</div>
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kadaliharsha&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
