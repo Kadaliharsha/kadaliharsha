@@ -11,7 +11,7 @@
 ## 🚀 About Me  
 
 I’m a Software Engineer passionate about building **scalable backend systems, real-time platforms, and AI-powered applications**.  
-Strong in **Python, Java, and SQL/NoSQL databases**, with experience delivering projects that feel like real startup MVPs.  
+Strong in **Python, Java, and SQL/NoSQL databases**, with experience delivering projects.  
 
 - 🎓 **Education:** B.Tech in Computer Science (2024), Minor in AI – IIT Ropar (2025)  
 - 💼 **Actively seeking:** Backend / Software Engineer roles  
