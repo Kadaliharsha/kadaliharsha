@@ -59,8 +59,7 @@ Real-time collaborative coding platform focused on **secure code execution and b
 - Designed backend services to manage collaborative sessions and user state  
 - Implemented WebSocket-based real-time updates  
 - Integrated Docker-based sandboxing for isolated code execution  
-- PostgreSQL used for session and metadata persistence  
-
+- PostgreSQL used for session and metadata persistence
 Repository: https://github.com/Kadaliharsha/CodeCollab_Project
 
 ---
@@ -70,8 +69,7 @@ AI-assisted learning backend built to personalize assessments and learning paths
 
 - Processed **700K+ learner interaction records** for performance analysis  
 - Implemented AI-driven quiz generation and evaluation workflows  
-- Designed backend services to track learning progress and adaptive feedback  
-
+- Designed backend services to track learning progress and adaptive feedback
 Repository: https://github.com/Kadaliharsha/AI_in_personalised_learning
 
 ---
@@ -82,8 +80,8 @@ Mental wellness platform built with a strong backend-first approach.
 - Developed REST APIs using Spring Boot for authentication, scheduling, and emergency workflows  
 - Implemented JWT-based access control and role separation  
 - Integrated MongoDB for flexible domain modeling
-
 Repository: https://github.com/Kadaliharsha/Synapse
+
 ---
 
 ## Engineering Interests
