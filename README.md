@@ -83,7 +83,7 @@ Mental wellness platform built with a strong backend-first approach.
 - Implemented JWT-based access control and role separation  
 - Integrated MongoDB for flexible domain modeling
 
-Repository: [https://github.com/Kadaliharsha/Synapse](https://github.com/Kadaliharsha/Synapse)
+Repository: https://github.com/Kadaliharsha/Synapse
 ---
 
 ## Engineering Interests
